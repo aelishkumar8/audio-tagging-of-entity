@@ -23,7 +23,7 @@ A machine learning project for classifying and tagging audio files (such as cat,
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/aelishkumar8/audio-tagging-of-entity.git
    cd audio-tagging-of-entity
    ```
 
